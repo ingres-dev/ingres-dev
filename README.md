@@ -87,7 +87,7 @@ Prêmio de Melhor TCC da UNICEUB. O projeto premiado consistiu em um sistema de 
 ## 🌐 Soft Skills & Outros
 
 ### Colaboração
-Trabalho bem em equipe, sou comunicativo e adaptável.
+Trabalho bem em equipe, sou comunicativo, flexivel e me adapto facilmente aos ambientes de trabalho
 
 
 ### Metodologias
