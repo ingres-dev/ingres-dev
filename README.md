@@ -3,7 +3,7 @@ Programador entusiasmado em busca da minha primeira experiência profissional na
 
 Possuo uma base sólida em Java, desenvolvimento web e arquitetura de software. Sou proativo, rápido em aprender novas tecnologias e totalmente comprometido em contribuir para o sucesso da equipe.
 
-
+##
 
 ### 💻 Habilidades Técnicas e Experiência
 Minhas principais competências técnicas incluem:
@@ -31,7 +31,7 @@ Arquitetura: Experiência com arquitetura de Microsserviços, construção de AP
 
 DevOps/Containerização: Utilização de Docker e Docker Compose para orquestração e deploy de serviços.
 
-
+##
 
 ### ✨ Projeto de Microsserviços (Experiência Acadêmica)
 Desenvolvi uma plataforma distribuída para gerenciar usuários, cursos e matrículas, aplicando na prática a arquitetura de Microsserviços.
@@ -45,6 +45,8 @@ Implementação de um API Gateway para centralizar o roteamento de requisições
 
 Criação de APIs RESTful para garantir a escalabilidade e resiliência do sistema.
 
+##
+
 ### 🎓 Formação e Reconhecimento
 
 Superior em Análise e Desenvolvimento de Sistemas (UNICEUB, Taguatinga) - Desde Agosto de 2022, até Dezembro de 2025.
@@ -52,6 +54,7 @@ Superior em Análise e Desenvolvimento de Sistemas (UNICEUB, Taguatinga) - Desde
 
 Prêmio de Melhor TCC da UNICEUB. O projeto premiado consistiu em um sistema de gestão financeira para empresas de pequeno e médio porte, destacando-se pela inovação, relevância e aplicabilidade prática.
 
+##
 
 ### 🌐 Soft Skills & Outros
 
@@ -63,6 +66,8 @@ Metodologias: Experiência com metodologias ágeis.
 
 
 Idiomas: Inglês fluente, Espanhol intermediário e Japonês iniciante.
+
+##
 
 <div>
 
