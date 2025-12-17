@@ -68,6 +68,12 @@ Implementação de um API Gateway para centralizar o roteamento de requisições
 
 Criação de APIs RESTful para garantir a escalabilidade e resiliência do sistema.
 
+## ✨ Projeto em Java (Projeto integrador)
+
+Desenvolvi um projeto de gestor financeiro para empresas de pequeno/médio porte usando Java com Spring, html, css JavaScript, bootstrap e postgresql
+
+[Acesso ao repositório do projeto](https://github.com/ingres-dev/PagaFacilBackEnd)
+
 
 ## 🎓 Formação e Reconhecimento
 
