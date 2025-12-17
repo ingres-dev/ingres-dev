@@ -1,5 +1,4 @@
-👋 Olá! Sou Francisco Leonardo Oliveira Maia
-Programador entusiasmado em busca da minha primeira experiência profissional na área.
+Desenvolvedor focado em backend, mas com conhecimento fullstack
 
 Possuo uma base sólida em Java, desenvolvimento web e arquitetura de software. Sou proativo, rápido em aprender novas tecnologias e totalmente comprometido em contribuir para o sucesso da equipe.
 
